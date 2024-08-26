@@ -1,1 +1,8 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W00 100 L02 Kelas Hari Senin
+ZCZC W00 20 L03 Setup GitHub
+ZCZC W00 05 L04 Setup GitHub Page
+ZCZC W00 15 L09 Reading Instructions for assigment #1 to #6
