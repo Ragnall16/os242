@@ -2,7 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-
+ZCZC W01 90 L05 Studying and Quiz + Zoom for Quiz
+ZCZC W01 100 L02 Kelas Hari Rabu
+ZCZC W01 60 L00 Weekly Pop Quiz
+ZCZC W01 100 L02 Kelas Hari Senin
+ZCZC W01 20 L03 Added myupdate.txt
+ZCZC W01 30 L04 Finding and Adding Links to GitHub Page
 ZCZC W01 180 L09 Setting Up Virtual Debian
 ZCZC W00 90 L05 Studying and Quiz + Zoom for Quiz
 ZCZC W00 100 L02 Kelas Hari Rabu
