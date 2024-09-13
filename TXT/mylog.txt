@@ -2,6 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 40 L06 Watched More Videos about Regex and Cyber Security
 ZCZC W02 90 L06 Watching Videos and Googling Stuff about RegEx and Linux commands
 ZCZC W02 100 L02 Kelas Hari Rabu
 ZCZC W02 90 L09 All things assignment
