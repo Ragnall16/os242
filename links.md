@@ -33,5 +33,11 @@ permalink: LINKS/
 <br>If you missed class or need more materials to understand C, this is a great website to learn the basics of C language.
 <br>Or you could learn from the given tutorial that should be in your demos folder (cd mydemo/Week02/c-language)
 
+#### Week 03
+* [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)
+<br>Video that explains about this week's topic, File Systems. Watch this video in addition to reading the given reading materials to ace this week's quiz (hopefully)
+* [mounting and unmounting disks/partitions - Linux Command Line tutorial for forensics - 15](https://www.youtube.com/watch?v=F-a_BBAGfkE)
+<br>If you want to know about the in's and out's of this week's assignment, go watch this video. This video might also help you if you missed a step on the assigment and errors happened.
+
 <br>
 <hr>
