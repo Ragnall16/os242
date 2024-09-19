@@ -2,6 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 60 L06 Watched Videos on File Systems and Mounting/Unmounting Disks
 ZCZC W03 45 L00 GSGS for Backing Up and Assignment
 ZCZC W03 90 L09 Starting assignment for Week 3 
 ZCZC W03 60 L61 Backup Virtual Box
