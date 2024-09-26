@@ -2,15 +2,24 @@
 permalink: LINKS/
 ---
 
+[General](#General) | 
+[Week 00](#Week-00) | 
+[Week 01](#Week-01) | 
+[Week 02](#Week-02) |
+[Week 03](#Week-03) |
+[Week 04](#Week-04) |
+
+<br>
+
 # LINKS
 
 #### General
 
 * [Demos](https://demos.vlsm.org/)
-<br> Website OS untuk tutorial assignment tiap minggunya
+<br> OS website for step by step guide on weekly assignments
 
 * [PPT OS](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/)
-<br>PPT dari Buku Operating System Concepts Silberschatz untuk dipelajari terutama untuk kuis
+<br>PPT from Silberschatz's Operating System Concepts book to study especially for quizzes
 
 #### Week 00
 
@@ -38,6 +47,12 @@ permalink: LINKS/
 <br>Video that explains about this week's topic, File Systems. Watch this video in addition to reading the given reading materials to ace this week's quiz (hopefully)
 * [mounting and unmounting disks/partitions - Linux Command Line tutorial for forensics - 15](https://www.youtube.com/watch?v=F-a_BBAGfkE)
 <br>If you want to know about the in's and out's of this week's assignment, go watch this video. This video might also help you if you missed a step on the assigment and errors happened.
+
+#### Week 04
+* [Memory Addressing in Linux](https://notes.shichao.io/utlk/ch2/#handling-the-hardware-cache-and-the-tlb)
+<br>Learn extensively about how memory addressing works in Linux. This article may be a bit too broad for this course, so just prepare to be overwhelmed.
+* [How to Securely Copy Files in Linux](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+<br>If you have any problems copying a file from local directory to your VM or from your VM to Mr. RMS's os1, you can read this article to help you in finding solutions
 
 <br>
 <hr>
