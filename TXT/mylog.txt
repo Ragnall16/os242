@@ -2,6 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W04 45 L00 GSGS for Assignment
+ZCZC W04 90 L09 Assignment for Week 4 Done
+ZCZC W04 100 L02 Kelas Hari Rabu
+
 ZCZC W03 15 L09 Making sure assignments are right
 ZCZC W03 100 L02 Kelas Hari Senin
 ZCZC W03 60 L05 Studies for quiz and told there wasn't a quiz after studying
