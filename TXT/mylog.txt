@@ -2,6 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W04 15 L09 Finishing Week 4's assignments
 ZCZC W04 30 L09 Checking Week 4's assignments
 ZCZC W04 60 L04 Added Links to GHP for Week 4
 ZCZC W04 90 L05 Studying again for Quiz 3 + Zoom for Quiz 3
