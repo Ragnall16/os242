@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-[General](#general) | [Week 00](#week-00) | [Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) |
+[General](#general) | [Week 00](#week-00) | [Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) |
 
 <br>
 
@@ -48,6 +48,13 @@ permalink: LINKS/
 <br>Learn extensively about how memory addressing works in Linux. This article may be a bit too broad for this course, so just prepare to be overwhelmed.
 * [How to Securely Copy Files in Linux](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
 <br>If you have any problems copying a file from local directory to your VM or from your VM to Mr. RMS's os1, you can read this article to help you in finding solutions
+
+#### Week 05
+* [Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8)
+<br>Short 8 (almost 9) minute video that explains the basics of Virtual Memory. Perfect for a quick review too.
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+<br>If you're looking to understand virtual memory in operating systems, you can never go wrong with a GeeksforGeeks website. (Surely not another one next week)
+
 
 <br>
 <hr>
