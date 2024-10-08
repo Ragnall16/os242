@@ -2,6 +2,8 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W05 30 L09 Making sure assignments are right
+ZCZC W05 100 L06 Watch Videos and Read related Topics for missing class
 ZCZC W05 90 L09 Fixing assignment
 ZCZC W05 60 L04 Added Links to GHP for Week 5
 ZCZC W05 30 L09 Finishing Website Assignment for Week 5 
