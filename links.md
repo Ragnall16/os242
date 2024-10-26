@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-[General](#general) | [Week 00](#week-00) | [Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) |
+[General](#general) | [Week 00](#week-00) | [Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) |
 
 <br>
 
@@ -55,6 +55,9 @@ permalink: LINKS/
 * [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 <br>If you're looking to understand virtual memory in operating systems, you can never go wrong with a GeeksforGeeks website. (Surely not another one next week)
 
+#### Week 06
+* [FANG Interview Question | Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
+<br>Find out the difference between Process vs Thread
 
 <br>
 <hr>
