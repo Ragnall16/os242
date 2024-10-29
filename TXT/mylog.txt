@@ -2,9 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 180 L09 Finishing Assignment for Week 6
+ZCZC W06 100 L02 Kelas Hari Senin
 ZCZC W06 60 L04 Searching and Addling Links to GHP for Week 6
 ZCZC W06 60 L05 Studied for Quiz 6 but found out there wasn't a quiz
-ZCZC W06 180 Starting assignment for Week 6
+ZCZC W06 180 L09 Starting assignment for Week 6
 ZCZC W06 50 L06 Watched Videos
 ZCZC W06 100 L02 Kelas Hari Rabu
 
