@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-[General](#general) | [Week 00](#week-00) | [Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) |
+[General](#general) | [Week 00](#week-00) | [Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) | [Week 07](#week-07) |
 
 <br>
 
@@ -58,6 +58,10 @@ permalink: LINKS/
 #### Week 06
 * [FANG Interview Question | Process vs Thread](https://www.youtube.com/watch?v=4rLW7zg21gI)
 <br>Find out the difference between Process vs Thread
+
+#### Week 07
+* [Accessing Critical Region EASILY EXPLAINED !(Peterson's Algorithm)](]https://www.youtube.com/watch?v=r3Ma_4_vF2s)
+<br>Learn about Peterson's Solution with Clear Explanation and Helpful Illustration
 
 <br>
 <hr>
