@@ -60,7 +60,7 @@ permalink: LINKS/
 <br>Find out the difference between Process vs Thread
 
 #### Week 07
-* [Accessing Critical Region EASILY EXPLAINED !(Peterson's Algorithm)](]https://www.youtube.com/watch?v=r3Ma_4_vF2s)
+* [Accessing Critical Region EASILY EXPLAINED !(Peterson's Algorithm)](https://www.youtube.com/watch?v=r3Ma_4_vF2s)
 <br>Learn about Peterson's Solution with Clear Explanation and Helpful Illustration
 
 <br>
