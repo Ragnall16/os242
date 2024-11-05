@@ -2,6 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 30 L09 Finishing Assignment for Week 7
+ZCZC W07 100 L02 Kelas Hari Senin
+ZCZC W07 90 L05 Studying Again for Quiz 6 + Zoom for Quiz 6
 ZCZC W07 30 L06 Watched Videos about OS
 ZCZC W07 50 L04 Searching and Adding Links to GHP for Week 7
 ZCZC W07 180 L09 Starting Assignment for Week 7
