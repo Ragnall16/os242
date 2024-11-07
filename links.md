@@ -63,5 +63,11 @@ permalink: LINKS/
 * [Accessing Critical Region EASILY EXPLAINED !(Peterson's Algorithm)](https://www.youtube.com/watch?v=r3Ma_4_vF2s)
 <br>Learn about Peterson's Solution with Clear Explanation and Helpful Illustration
 
+#### Week 08
+Also for Week 9 and 10
+* [LFS 12.2 - How to build Linux From Scratch 12.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
+<br>Full Tutorial on how to build Linux from Scratch for OS Week 8 to 10, just follow the video and you 
+will get a good grade for the corresponding week (No Guarantees)
+
 <br>
 <hr>
