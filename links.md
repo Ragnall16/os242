@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-[General](#general) | [Week 00](#week-00) | [Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) | [Week 07](#week-07) |
+[General](#general) | [Week 00](#week-00) | [Week 01](#week-01) | [Week 02](#week-02) | [Week 03](#week-03) | [Week 04](#week-04) | [Week 05](#week-05) | [Week 06](#week-06) | [Week 07](#week-07) | [Week 08](#week-08) |
 
 <br>
 
